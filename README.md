@@ -60,9 +60,13 @@ After scraping the data, we needed to clean it up so that it was usable for our 
 
 We looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
 
-![Job Designation wise Salary](/job title vs salary.PNG)
-![number of jobs per state](/number of jobs per state.PNG)
-![Sector wise job openings](/Sector wise job openings.PNG)
+<p>
+    <img src="job title vs salary.PNG" width="280" height="360" />
+   <img src="number of jobs per state.PNG" width="880" height="360" />
+</p>
+<p>
+   <img src="Sector wise job openings.PNG" width="880" height="360" />
+</p>
 
 
 ## Model Building
